@@ -1,0 +1,15 @@
+D:\C# Projects\Александра Евделеева\Александра Евделеева\bin\Debug\net6.0\Александра Евделеева.exe
+D:\C# Projects\Александра Евделеева\Александра Евделеева\bin\Debug\net6.0\Александра Евделеева.deps.json
+D:\C# Projects\Александра Евделеева\Александра Евделеева\bin\Debug\net6.0\Александра Евделеева.runtimeconfig.json
+D:\C# Projects\Александра Евделеева\Александра Евделеева\bin\Debug\net6.0\Александра Евделеева.dll
+D:\C# Projects\Александра Евделеева\Александра Евделеева\bin\Debug\net6.0\Александра Евделеева.pdb
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\Александра Евделеева.csproj.AssemblyReference.cache
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\Александра Евделеева.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\Александра Евделеева.AssemblyInfoInputs.cache
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\Александра Евделеева.AssemblyInfo.cs
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\Александра Евделеева.csproj.CoreCompileInputs.cache
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\Александра Евделеева.dll
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\refint\Александра Евделеева.dll
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\Александра Евделеева.pdb
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\Александра Евделеева.genruntimeconfig.cache
+D:\C# Projects\Александра Евделеева\Александра Евделеева\obj\Debug\net6.0\ref\Александра Евделеева.dll
